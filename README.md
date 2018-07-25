@@ -1,5 +1,6 @@
 # Introduction
 
+
 ## EN/US
 
 Welcome to my troll repo ! I'll update here a database of many trolls for those who forgot to lockscreen.
@@ -8,7 +9,7 @@ Have fun !
 
 ## FR
 
-Bienvenue sur la partie troll de mon repo ! Je posterai ici et mettrai à jour une base de donnée de scripts sh destinée à tous ceux qui oublient un peu trop souvent de lockscreen ! Apprenez le fonctionnement du shell via quelques petits scripts
+Bienvenue sur la partie troll de mon git ! C'est ici que se font les uploads de mes scripts sh destinés à tous ceux qui oublient un peu trop souvent de lockscreen ! Apprenez le fonctionnement du shell via quelques petits scripts
 fun ! :)
 
 # Full repo download 
