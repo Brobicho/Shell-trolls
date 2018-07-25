@@ -6,4 +6,6 @@ FR : Bienvenue sur la partie troll de mon repo ! Je posterai ici et mettrai à j
 fun ! :)
 
 
-Full repo download : git clone https://github.com/Servietteski/Shell-trolls.git
+Full repo download 
+
+> git clone https://github.com/Servietteski/Shell-trolls.git
