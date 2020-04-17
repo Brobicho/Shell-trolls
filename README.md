@@ -2,7 +2,7 @@
 
 
 
-## EN/US
+## EN
 
 
 Welcome to my troll repo !
