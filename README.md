@@ -5,17 +5,19 @@
 ## EN/US
 
 
-Welcome to my troll repo ! I'll update here a database of many trolls for those who forgot to lockscreen.
+Welcome to my troll repo !
 All the work brought here is made for learning purposes.
-Have fun !
+Learn shell easily and have fun ! :)
 
 
 
 ## FR
 
 
-Bienvenue sur la partie troll de mon git ! C'est ici que se font les uploads de mes scripts sh destinés à tous ceux qui oublient un peu trop souvent de lockscreen ! Apprenez le fonctionnement du shell via quelques petits scripts
-fun ! :)
+Bienvenue sur la partie troll de mon git !
+Le code proposé ici est destiné à des fins éducatives.
+Apprenez le fonctionnement du shell via quelques petits scripts fun ! :)
+
 
 
 
