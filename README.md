@@ -24,4 +24,4 @@ Apprenez le fonctionnement du shell via quelques petits scripts fun ! :)
 # Full repo download 
 
 
-> git clone https://github.com/Servietteski/Shell-trolls.git
+> git clone https://github.com/Brobicho/Shell-trolls.git
